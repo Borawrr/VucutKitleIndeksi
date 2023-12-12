@@ -18,5 +18,6 @@ public class VucutKitleIndeksi {
         
         System.out.println("Vücut Kitle Indeksiniz : " + KitleIndeksi);
 
+        scanner.close();
     }
 }
